@@ -1,0 +1,22 @@
+[
+    { "role": "Software Engineer", "company": "Google", "location": "Mountain View, CA" },
+    { "role": "Product Designer", "company": "Apple", "location": "Cupertino, CA" },
+    { "role": "Data Scientist", "company": "Facebook", "location": "Menlo Park, CA" },
+    { "role": "Marketing Manager", "company": "Microsoft", "location": "Redmond, WA" },
+    { "role": "Sales Engineer", "company": "Salesforce", "location": "San Francisco, CA" },
+    { "role": "UX Researcher", "company": "Amazon", "location": "Seattle, WA" },
+    { "role": "DevOps Engineer", "company": "IBM", "location": "Armonk, NY" },
+    { "role": "Front-end Developer", "company": "Intel", "location": "Santa Clara, CA" },
+    { "role": "Graphic Designer", "company": "Adobe", "location": "San Jose, CA" },
+    { "role": "Business Analyst", "company": "Oracle", "location": "Austin, TX" },
+    { "role": "Content Strategist", "company": "LinkedIn", "location": "Sunnyvale, CA" },
+    { "role": "Software Engineer", "company": "Netflix", "location": "Los Gatos, CA" },
+    { "role": "System Administrator", "company": "Cisco", "location": "San Jose, CA" },
+    { "role": "Cybersecurity Analyst", "company": "HP Inc.", "location": "Palo Alto, CA" },
+    { "role": "Human Resources Manager", "company": "Twitter", "location": "San Francisco, CA" },
+    { "role": "Network Engineer", "company": "Juniper Networks", "location": "Sunnyvale, CA" },
+    { "role": "Data Analyst", "company": "Tesla", "location": "Palo Alto, CA" },
+    { "role": "Software Developer", "company": "Slack", "location": "San Francisco, CA" },
+    { "role": "Cybersecurity Analyst", "company": "CrowdStrike", "location": "Austin, TX" },
+    { "role": "Business Development Manager", "company": "Stripe", "location": "San Francisco, CA" }
+]
